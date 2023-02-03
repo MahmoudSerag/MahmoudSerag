@@ -16,7 +16,7 @@
 - 📄 Here's my CV [Click Here](https://drive.google.com/file/d/1iN-jnwUMfMXz9pMQGieBY6-SkzKNSqZ5/view?usp=share_link)
 
 ### 🚀 Some of my main projects
-- [Here]([https://github.com/MahmoudSerag](https://github.com/MahmoudSerag?tab=repositories))
+- [Here](https://github.com/MahmoudSerag](https://github.com/MahmoudSerag?tab=repositories))
 
 ### OS
 <p align="left"> 
