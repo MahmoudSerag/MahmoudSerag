@@ -37,6 +37,6 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/mahmoud-serag5/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Mahmoud-Serag" height="35" width="40" /></a>
-<a href="https://leetcode.com/sragmahmoud4/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/8e/LeetCode_Logo_1.png" alt="Mahmoud-Serag" height="40" width="40" /></a>
+<a href="https://leetcode.com/Mahmoud_Serag/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/8e/LeetCode_Logo_1.png" alt="Mahmoud-Serag" height="40" width="40" /></a>
  <a href="mailto:sragmahmoud4@gmail.com"><img align="center" alt="gmailIcon" src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/gmail.ico" height="40" width="40" /></a>
 </p>
