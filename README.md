@@ -3,11 +3,7 @@
 ### My name is Mahmoud Serag, and I'm a Backend Engineer
 
 <p align="left" >
-  <img alt="visitors" src="https://img.shields.io/badge/Backend-Engineer-sucess" />
-</p>
-
-<p align="left" >
-  <img alt="visitors" src="https://visitor-badge.glitch.me/badge?page_id=MahmoudSerag.visitor.svg" />
+  <img alt="Backend engineer" src="https://img.shields.io/badge/Backend-Engineer-sucess" />
 </p>
 
 - 📚 I am into Philosophy, Logic, Science, and Novels.
@@ -16,7 +12,9 @@
 - 📄 Here's my CV [Click Here](https://drive.google.com/file/d/1a95CHRiAzskV3Qy_iox4hbcy6JRTsbZe/view?usp=sharing)
 
 ### 🚀 Some of my main projects
-- [Here](https://github.com/MahmoudSerag?tab=repositories)
+- [ToBeHero](https://github.com/Unknown-squad/toBeHero-backend)
+- [E-Commerce-App](https://github.com/MahmoudSerag/E-Commerce-App)
+- [Jogging tracker](https://github.com/MahmoudSerag/Jogging-tracker-app)
 
 ### OS
 <p align="left"> 
