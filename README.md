@@ -9,7 +9,7 @@
 - 📚 I am into Philosophy, Logic, Science, and Novels.
 - 💻 I do JavaScript/TypeScript, node.js, SQL, and MongoDB.
 - 📫 You can reach me via `sragmahmoud4@gmail.com`, `https://www.linkedin.com/in/mahmoud-serag5/`
-- 📄 Here's my CV [Click Here](https://drive.google.com/file/d/1a95CHRiAzskV3Qy_iox4hbcy6JRTsbZe/view?usp=sharing)
+- 📄 Here's my CV [Click Here](https://drive.google.com/file/d/13VDSaBjxXAp3-hIAJ-lex5kWzRwgiYBu/view?usp=share_link)
 
 ### 🚀 Some of my main projects
 - [ToBeHero](https://github.com/Unknown-squad/toBeHero-backend)
