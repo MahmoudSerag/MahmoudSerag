@@ -12,11 +12,13 @@
 - 📄 Here's my CV [Click Here](https://drive.google.com/file/d/13VDSaBjxXAp3-hIAJ-lex5kWzRwgiYBu/view?usp=share_link)
 
 ### 🚀 Some of my main projects
+
 - [ToBeHero](https://github.com/Unknown-squad/toBeHero-backend)
 - [E-Commerce-App](https://github.com/MahmoudSerag/E-Commerce-App)
 - [Jogging tracker](https://github.com/MahmoudSerag/Jogging-tracker-app)
 
 ### OS
+
 <p align="left"> 
   <a href="https://www.linux.org/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
