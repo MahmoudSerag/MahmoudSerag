@@ -6,7 +6,6 @@
   <img alt="Backend engineer" src="https://img.shields.io/badge/Backend-Engineer-sucess" />
 </p>
 
-- 📚 I am into Philosophy, Logic, Science, and Novels.
 - 💻 I do JavaScript/TypeScript, node.js, SQL, and MongoDB.
 - 📫 You can reach me via `sragmahmoud4@gmail.com`, `https://www.linkedin.com/in/mahmoud-serag5/`
 - 📄 Here's my CV [Click Here](https://drive.google.com/file/d/1K08Rbx0PAX0-ExA9PEXFmQe7h2rfFHFF/view?usp=drive_link)
@@ -36,21 +35,6 @@
 ![Railway](https://img.shields.io/badge/Railway-131415?style=for-the-badge&logo=railway&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
 ![Render](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
-
-### OS
-
-<p align="left"> 
-  <a href="https://www.linux.org/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  </a>
-</p>
-
-### Here is my personal documentations for installing and using
-
-<p align="center">
-<a href="https://pastoral-passbook-c2a.notion.site/Manjaro-f3fe3132e4364db3b6ef8509cf43e783" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Manjaro-logo.svg/2048px-Manjaro-logo.svg.png" alt="manjaro" height="40" width="40" /></a>
-<a href="https://pastoral-passbook-c2a.notion.site/Void-Linux-756ecbe19e724bc9ad5bc5efc5dd93a3" target="blank"><img align="center" src="https://pastoral-passbook-c2a.notion.site/image/https%3A%2F%2Fvoidlinux.org%2Fassets%2Fimg%2Fvoid_bg.png" alt="void-linux" height="40" width="40" /></a>
-</p>
 
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MahmoudSerag&show_icons=true&theme=tokyonight&layout=compact)
 ![Stats](https://github-readme-stats.vercel.app/api?username=MahmoudSerag&theme=tokyonight&show_icons=true&count_private=true)
