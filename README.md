@@ -8,7 +8,8 @@
 
 - 🔭 I’m currently working as a freelancer on an E-Learning platform
 - 🌱 I’m currently learning: ( C# - ASP.NET Core)
-- 💻 I do JavaScript/TypeScript, node.js, SQL, and MongoDB.
+- 💡 I actively engage in solving coding challenges on LeetCode
+- 💻 I do JavaScript/TypeScript, node.js, SQL, and MongoDB
 - 📫 You can reach me via `sragmahmoud4@gmail.com`, `https://www.linkedin.com/in/mahmoud-serag5/`
 - :iphone: reach me: +201064560413
 - 📄 Here's my CV [Click Here](https://drive.google.com/file/d/1lyNgBSbJ3kowGTvBWgb4Ko9EOd_MKMVT/view?usp=sharing)
