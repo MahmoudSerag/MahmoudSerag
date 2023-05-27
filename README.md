@@ -8,7 +8,7 @@
 
 - 💻 I do JavaScript/TypeScript, node.js, SQL, and MongoDB.
 - 📫 You can reach me via `sragmahmoud4@gmail.com`, `https://www.linkedin.com/in/mahmoud-serag5/`
-- 📄 Here's my CV [Click Here](https://drive.google.com/file/d/1lyNgBSbJ3kowGTvBWgb4Ko9EOd_MKMVT/view?usp=drive_link)
+- 📄 Here's my CV [Click Here](https://drive.google.com/file/d/1lyNgBSbJ3kowGTvBWgb4Ko9EOd_MKMVT/view?usp=sharing)
 
 ### 🚀 Some of my main projects
 
