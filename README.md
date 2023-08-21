@@ -7,7 +7,7 @@
 </p>
 
 - 🔭 I’m currently working as a freelancer on an E-Learning platform
-- 🌱 I’m currently learning: ( C# - ASP.NET Core)
+- 🌱 I’m currently learning: ( C# - ASP.NET Core - Design Patterns)
 - 💡 I actively engage in solving coding challenges on LeetCode
 - 💻 I do JavaScript/TypeScript, node.js, SQL, and MongoDB
 - 📫 You can reach me via `sragmahmoud4@gmail.com`, `https://www.linkedin.com/in/mahmoud-serag-ismail-02a54927b/`
