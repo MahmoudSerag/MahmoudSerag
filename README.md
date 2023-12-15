@@ -9,19 +9,24 @@
 - 🔭 I’m currently working as a freelancer on an E-Learning platform
 - 🌱 I’m currently learning: ( C# - ASP.NET Core - Design Patterns)
 - 💡 I actively engage in solving coding challenges on LeetCode
-- 💻 I do JavaScript/TypeScript, node.js, SQL, and MongoDB
+- 💻 I do C#, JavaScript/TypeScript, Asp.Net Core, node.js, SQL Server, and MongoDB
 - 📫 You can reach me via `sragmahmoud4@gmail.com`, `https://www.linkedin.com/in/mahmoud-serag-ismail-02a54927b/`
 - :iphone: reach me: +201064560413
-- 📄 Here's my CV [Click Here](https://drive.google.com/file/d/1U1611iSDHORHmprWwi0V96veDCNAzg80/view?usp=sharing)
+- 📄 Here's my CV [Click Here](https://drive.google.com/file/d/1_xlplNQkSzQPEJV2ljIGPdFOf35xo1ES/view?usp=sharing)
 
 ### 🚀 Some of my main projects
 
-- [ToBeHero](https://github.com/Unknown-squad/toBeHero-backend)
+- [Vezeeta App](https://gitlab.com/MahmoudSerag/algoriza-internship-290)
+- [Education-Platform](https://github.com/MahmoudSerag/education-app)
 - [E-Commerce-App](https://github.com/MahmoudSerag/E-Commerce-App)
 - [Jogging tracker](https://github.com/MahmoudSerag/Jogging-tracker-app)
+- [ToBeHero](https://github.com/Unknown-squad/toBeHero-backend)
 
-### Technologies i use
+### Technologies I use
 
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![ASP.NETCore](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![MSSQL](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![Node](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-f7e018?style=for-the-badge&logo=javascript&logoColor=000000)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -29,7 +34,6 @@
 ![Nest JS](https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-f54d27?style=for-the-badge&logo=Git&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
