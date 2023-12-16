@@ -12,7 +12,7 @@
 - 💻 I do C#, JavaScript/TypeScript, Asp.Net Core, node.js, SQL Server, and MongoDB
 - 📫 You can reach me via `sragmahmoud4@gmail.com`, `https://www.linkedin.com/in/mahmoud-serag-ismail-02a54927b/`
 - :iphone: reach me: +201064560413
-- 📄 Here's my CV [Click Here](https://drive.google.com/file/d/1_xlplNQkSzQPEJV2ljIGPdFOf35xo1ES/view?usp=sharing)
+- 📄 Here's my CV [Click Here](https://drive.google.com/file/d/1s9Wba5nLvH0IYKBdXo8iYe6KW1_GNwKZ/view?usp=sharing)
 
 ### 🚀 Some of my main projects
 
