@@ -16,7 +16,7 @@
 
 ### 🚀 Some of my main projects
 
-- [Vezeeta App](https://gitlab.com/MahmoudSerag/algoriza-internship-290)
+- [Vezeeta App](https://github.com/MahmoudSerag/Vezeeta-App)
 - [Education-Platform](https://github.com/MahmoudSerag/education-app)
 - [E-Commerce-App](https://github.com/MahmoudSerag/E-Commerce-App)
 - [Jogging tracker](https://github.com/MahmoudSerag/Jogging-tracker-app)
